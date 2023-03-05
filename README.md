@@ -9,3 +9,4 @@ Introduction_to_PyTorch.ipynb: A tutorial found by myself
 Giagu Codes: Codes of the Giagu course
 
 RODOLA COURSE: https://github.com/erodola/DLAI-s2-2021/tree/main/labs
+               https://erodola.github.io/DLAI-s2-2021/
